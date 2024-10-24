@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLmtwZd60CI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bazlo\\Downloads\\Arkanoid-WinForms-main\\Arkanoid-WinForms-main\\Arkanoid.Contracts\\Arkanoid.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bazlo\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\bazlo\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512",
+    "C:\\Users\\bazlo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\bazlo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\bazlo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

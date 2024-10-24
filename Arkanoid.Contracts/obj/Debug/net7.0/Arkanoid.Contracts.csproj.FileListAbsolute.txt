@@ -1,0 +1,12 @@
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\bin\Debug\net7.0\Arkanoid.Contracts.deps.json
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\bin\Debug\net7.0\Arkanoid.Contracts.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\bin\Debug\net7.0\Arkanoid.Contracts.pdb
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.csproj.AssemblyReference.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.AssemblyInfoInputs.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.AssemblyInfo.cs
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\refint\Arkanoid.Contracts.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\Arkanoid.Contracts.pdb
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.Contracts\obj\Debug\net7.0\ref\Arkanoid.Contracts.dll
