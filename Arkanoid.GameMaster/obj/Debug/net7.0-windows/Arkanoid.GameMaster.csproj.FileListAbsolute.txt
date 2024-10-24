@@ -1,0 +1,15 @@
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\bin\Debug\net7.0-windows\Arkanoid.GameMaster.deps.json
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\bin\Debug\net7.0-windows\Arkanoid.GameMaster.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\bin\Debug\net7.0-windows\Arkanoid.GameMaster.pdb
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\bin\Debug\net7.0-windows\Arkanoid.Contracts.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\bin\Debug\net7.0-windows\Arkanoid.Contracts.pdb
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.csproj.AssemblyReference.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.AssemblyInfoInputs.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.AssemblyInfo.cs
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.csproj.CoreCompileInputs.cache
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.63B256EF.Up2Date
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\refint\Arkanoid.GameMaster.dll
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\Arkanoid.GameMaster.pdb
+C:\Users\bazlo\Downloads\Arkanoid-WinForms-main\Arkanoid-WinForms-main\Arkanoid.GameMaster\obj\Debug\net7.0-windows\ref\Arkanoid.GameMaster.dll
