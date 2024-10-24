@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvOwRv2C41w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bazlo\\Downloads\\Arkanoid-WinForms-main\\Arkanoid-WinForms-main\\Arkanoid\\Arkanoid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bazlo\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\bazlo\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
